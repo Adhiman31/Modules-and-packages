@@ -1,0 +1,31 @@
+INFO 2022-07-13 22:10:27,979 creating student class object
+INFO 2022-07-13 22:10:27,979 This is a student class constructor
+INFO 2022-07-13 22:10:27,980 this function provides all the details of Student data
+INFO 2022-07-13 22:10:27,980 Name is Anil  Kumar
+INFO 2022-07-13 22:10:27,980 age is 30
+INFO 2022-07-13 22:10:27,980 dob is 1991
+INFO 2022-07-13 22:10:27,980 student_id is 101
+INFO 2022-07-13 22:10:27,980 None
+INFO 2022-07-13 22:10:27,980 creating object for course class
+INFO 2022-07-13 22:10:27,980 this function gives the fee description as per chosen course
+INFO 2022-07-13 22:10:27,980 the fees for FSDS course is 15000 INR
+INFO 2022-07-13 22:10:27,980 None
+INFO 2022-07-13 22:10:27,980 this function gives the fee description as per chosen course
+INFO 2022-07-13 22:10:27,980 the fees for Big Data course is 10000 INR
+INFO 2022-07-13 22:10:27,980 None
+INFO 2022-07-13 22:10:27,980 creating object for jobs class
+INFO 2022-07-13 22:10:27,980 this function provides job role and annual salary expectations 
+INFO 2022-07-13 22:10:27,980 The Job Role is Data Scientist and Salary is 1200000
+INFO 2022-07-13 22:10:27,981 The Job Role is SQL Developer and Salary is 100000
+INFO 2022-07-13 22:10:27,981 The Job Role is Data Engineer and Salary is 130000
+INFO 2022-07-13 22:10:27,981 The Job Role is Data Analyst and Salary is 900000
+INFO 2022-07-13 22:10:27,981 None
+INFO 2022-07-13 22:10:27,981 creating object for internship class
+INFO 2022-07-13 22:10:27,981 Display the list of internship offered at ineuron
+INFO 2022-07-13 22:10:27,981 Machine Learning Project
+INFO 2022-07-13 22:10:27,981 Python project
+INFO 2022-07-13 22:10:27,981 Deep Learning Project
+INFO 2022-07-13 22:10:27,981 NLP Project
+INFO 2022-07-13 22:10:27,981 Time Series Project
+INFO 2022-07-13 22:10:27,981 Data Analytics Project
+INFO 2022-07-13 22:10:27,981 None
